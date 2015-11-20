@@ -13,11 +13,11 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Ishank Gulati
+title:               tester
 tagline:             'BTech student at Malaviya National Institute of Technology'
 description:         'Learn Improvise Innovate Repeat'
-url:                 http://ishankgulati.github.io
-giturl:				 http://ishankgulati.github.io
+url:                 http://tester-1234.github.io
+giturl:				 http://tester-1234.github.io
 baseurl:             ""
 paginate:            5
 paginate_path:       "blog/page:num"
@@ -25,15 +25,10 @@ rss:                 atom.xml
 
 # About/contact
 author:
-  name:             Ishank Gulati
-  github:           IshankGulati
-  email:            gulati.ishank@gmail.com
-  linkedin:         ishankgulati
-  facebook:			ishank.gulati.3
-  gravatar_md5:     01f7b07a31316e30cdfe827e2fc68e7c
+  name:             tester-1234
 
 # Custom vars
 version:             1.0.0
 
 github:
-  repo:           https://github.com/IshankGulati/ishankgulati.github.io
+  repo:           https://github.com/tester-1234/tester-1234.github.io
